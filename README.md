@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Ozan
-- 🧑‍💻 I’m currently working as Senior iOS Developer @loodos
-- 📫 How to reach me:
-
-> ![https://www.linkedin.com/in/ozanbg/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-> ![ozangunaydin61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 🧑‍💻 I’m currently working as Senior iOS Developer [@loodos](https://github.com/loodos)
 
 ---
 
