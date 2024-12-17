@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Ozan
-- 🧑‍💻 I’m currently working as Senior iOS Developer [@loodos](https://github.com/loodos)
-
----
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbarisgunaydin&theme=dark&hide_border=true" alt="ozanbarisgunaydin's GitHub Stats" />
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbarisgunaydin&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ozanbarisgunaydin's GitHub Stats" />
+*	👋 Hi, I’m Ozan
+*	🚀 I’m an iOS Developer passionate about crafting high-quality apps
+*	🛠 Skilled in Swift with UIKit and SwiftUI frameworks. Checkout my [repositories](https://github.com/ozanbarisgunaydin?tab=repositories)
+*	📱 Explore my apps on the [App Store](https://apps.apple.com/us/developer/ozan-baris-gunaydin/id1700758235)
+*	🌟 Dedicated to writing clean code, designing robust architectures, and delivering seamless user experiences
